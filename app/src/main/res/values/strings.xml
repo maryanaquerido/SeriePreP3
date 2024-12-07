@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeriePreP3</string>
+    <string name="num">Digite um valor para N</string>
+    <string name="resposta">Resultado:</string>
+    <string name="calcular">Calcular</string>
+    <string name="titulo1">Vamos calcular a série</string>
+    <string name="titulo2">1 + 1/2 + 1/3 + ... + 1/N</string>
+    <string name="tooltipBotao">Clique para calcular!</string>
+</resources>
